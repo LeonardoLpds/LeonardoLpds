@@ -1,6 +1,5 @@
-[![MasterHead](https://raw.githubusercontent.com/LeonardoLpds/LeonardoLpds/main/Leonardo%20Souza.jpg)](https://www.linkedin.com/in/leonardolpds/en)
 <h1 align="center">Hi 👋, I'm Leonardo</h1>
-<h3 align="center">A passionate software engineer from Brazil</h3>
+<h3 align="center">A Software Engineer from Brazil</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <a href="https://twitter.com/leonardolpds" target="blank"><img src="https://img.shields.io/twitter/follow/leonardolpds?logo=twitter&style=for-the-badge" alt="leonardolpds" /></a> </p>
