@@ -1,3 +1,4 @@
+[![MasterHead](https://raw.githubusercontent.com/LeonardoLpds/LeonardoLpds/main/Leonardo%20Souza.jpg)](https://www.linkedin.com/in/leonardolpds/en)
 <h1 align="center">Hi 👋, I'm Leonardo</h1>
 <h3 align="center">A passionate software engineer from Brazil</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
