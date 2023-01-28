@@ -2,7 +2,9 @@
 <h3 align="center">A Software Engineer from Brazil</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<p align="left"> <a href="https://twitter.com/leonardolpds" target="blank"><img src="https://img.shields.io/twitter/follow/leonardolpds?logo=twitter&style=for-the-badge" alt="leonardolpds" /></a> </p>
+<p align="left">
+  <a href="https://twitter.com/leonardolpds" target="blank"><img src="https://img.shields.io/twitter/follow/LeonardoLpds?logo=twitter&style=flat-square" alt="leonardolpds" /></a> <a href="https://www.codewars.com/users/LeonardoLpds" target="blank"><img alt="Codwars" src="https://www.codewars.com/users/LeonardoLpds/badges/micro"></a>
+</p>
 
 - 🌱 I’m currently learning **React Native and Flutter**
 
